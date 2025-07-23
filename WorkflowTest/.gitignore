@@ -11,6 +11,8 @@
 # Build results
 bin/
 obj/
+WorkflowTest.test\bin\
+WorkflowTest.test\obj\
 
 # VS Code settings
 .vscode/
@@ -27,3 +29,5 @@ obj/
 
 #Migrations
 Migrations/
+
+#
